@@ -1,6 +1,9 @@
 # Ex.No: 11 Develop a application to add animations to ImageView,Move,blink,fade,clockwise,zoom,slide operations are perform in android studio.
+Developed by: DIVYA R
 
+Registeration Number : 212222040040
 
+Date:28/10/24
 ## AIM:
 
 To develop a application to add animation to imageview,move,blink,fade,clockwise,zoom,slide operation using Android Studio.
@@ -22,8 +25,6 @@ Android Studio(Latest Version)
 ```
 /*
 Program to display animation operation”.
-Developed by: DIVYA R
-Registeration Number : 212222040040
 */
 ```
 ## In activity_main.xml
